@@ -1,3 +1,9 @@
+#FashionsBlog
+
+![Shop](https://github.com/Martun707/-responsive-shop-website-react/assets/115223928/6edfe56f-4285-4f89-8f84-ecfd37feab05)
+![shop2](https://github.com/Martun707/-responsive-shop-website-react/assets/115223928/c1883300-936d-4a5a-8f29-2ba46180c9b6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
