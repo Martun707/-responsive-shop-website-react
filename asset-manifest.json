@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/-responsive-shop-website-react/static/css/main.073c9b0a.css",
+    "main.js": "/-responsive-shop-website-react/static/js/main.83d906d6.js",
+    "static/js/787.e2ed727d.chunk.js": "/-responsive-shop-website-react/static/js/787.e2ed727d.chunk.js",
+    "static/media/HeroImage.jpg": "/-responsive-shop-website-react/static/media/HeroImage.86d1c79d5bec4ff5081e.jpg",
+    "static/media/image2.jpg": "/-responsive-shop-website-react/static/media/image2.be1406155bdd4d2c2ee3.jpg",
+    "static/media/image1.jpg": "/-responsive-shop-website-react/static/media/image1.d74147c687f8999e3025.jpg",
+    "static/media/image4.jpg": "/-responsive-shop-website-react/static/media/image4.db1005cfb67c302690bd.jpg",
+    "static/media/image3.jpg": "/-responsive-shop-website-react/static/media/image3.7da92c574f475517cee1.jpg",
+    "static/media/kids.jpg": "/-responsive-shop-website-react/static/media/kids.3d885c1f94565dd13cef.jpg",
+    "static/media/women.jpg": "/-responsive-shop-website-react/static/media/women.63a005c4e4723e562c10.jpg",
+    "static/media/men.jpg": "/-responsive-shop-website-react/static/media/men.cd0c0f907fbae10553c3.jpg",
+    "index.html": "/-responsive-shop-website-react/index.html",
+    "main.073c9b0a.css.map": "/-responsive-shop-website-react/static/css/main.073c9b0a.css.map",
+    "main.83d906d6.js.map": "/-responsive-shop-website-react/static/js/main.83d906d6.js.map",
+    "787.e2ed727d.chunk.js.map": "/-responsive-shop-website-react/static/js/787.e2ed727d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83d906d6.js"
+  ]
+}
